@@ -18,7 +18,7 @@ pipeline {
     agent any
 
     environment {
-        INSTANCE_ID = 'i-0bb52a97242f58696'
+        INSTANCE_ID = 'i-0bb52a97242f58555'
         AWS_REGION = 'eu-north-1'
     }
 
