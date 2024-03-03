@@ -2,14 +2,6 @@
 
 Welcome to the **Awesome Jenkins Pipeline Repository**! 🚀 This repository houses an incredible Jenkins pipeline script designed to seamlessly manage and start your AWS EC2 instances. The power of automation is at your fingertips!
 
-## Table of Contents
-- [﻿Overview](https://chat.openai.com/c/8ac849e8-72dc-41fd-b896-a5c2cfed9847#overview) 
-- [﻿Prerequisites](https://chat.openai.com/c/8ac849e8-72dc-41fd-b896-a5c2cfed9847#prerequisites) 
-- [﻿Pipeline Structure](https://chat.openai.com/c/8ac849e8-72dc-41fd-b896-a5c2cfed9847#pipeline-structure) 
-- [﻿Instructions](https://chat.openai.com/c/8ac849e8-72dc-41fd-b896-a5c2cfed9847#instructions) 
-- [﻿Notes](https://chat.openai.com/c/8ac849e8-72dc-41fd-b896-a5c2cfed9847#notes) 
-- [﻿Contributing](https://chat.openai.com/c/8ac849e8-72dc-41fd-b896-a5c2cfed9847#contributing) 
-- [﻿License](https://chat.openai.com/c/8ac849e8-72dc-41fd-b896-a5c2cfed9847#license) 
 ## Overview
 This repository is a treasure trove of automation goodness! The Jenkins pipeline script here is crafted with care to make your AWS EC2 instance management a breeze. Whether you're a seasoned developer or just getting started, this script will save you time and effort.
 
@@ -45,7 +37,7 @@ Feel free to explore, experiment, and tailor the script to suit your unique need
 Found a way to make this script even more awesome? Contributions are welcome! Fork the repository, make your enhancements, and submit a pull request. Let's make automation together!
 
 ## License
-This repository is licensed under the MIT License. Feel free to use, modify, and share the script with the world.
+Feel free to use,and share the script with the world.
 
 Happy automating! 🤖✨
 
